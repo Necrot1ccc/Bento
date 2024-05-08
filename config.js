@@ -53,39 +53,41 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'glasses',
-			link: 'https://github.com/',
+			name: 'Warframe Hub',
+			icon: 'globe',
+			link: 'https://hub.warframestat.us/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://gmail.com/',
+			name: 'Warframe Market',
+			icon: 'shopping-basket',
+			link: 'https://warframe.market/',
 		},
 		{
 			id: '3',
-			name: 'Messenger',
-			icon: 'message-circle',
-			link: 'https://todoist.com',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
+
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
+			id: '5',
+			name: 'Messenger',
+			icon: 'message-circle',
+			link: 'https://todoist.com',
+
+		},
+		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Roblox',
+			icon: 'gamepad-2',
+			link: 'https://www.roblox.com/home',
 		},
 	],
 
@@ -135,24 +137,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'book-open-text',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lucide',
+					link: 'https://lucide.dev/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Wordle',
+					link: 'https://www.nytimes.com/games/wordle/index.html',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ComicK',
+					link: 'https://comick.io/home',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Spotify',
+					link: 'https://open.spotify.com',
 				},
 			],
 		},
@@ -161,20 +163,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Docs',
+					link: 'https://docs.google.com/document/u/2/?tgif=d',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Mail',
+					link: 'https://mail.google.com/mail/u/2/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Class',
+					link: 'https://classroom.google.com/u/2/?pli=1',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Figma',
+					link: 'https://figma.com/',
 				},
 			],
 		},
