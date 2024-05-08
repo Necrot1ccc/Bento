@@ -80,7 +80,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Messenger',
 			icon: 'message-circle',
-			link: 'https://todoist.com',
+			link: 'https://www.messenger.com/',
 
 		},
 		{
